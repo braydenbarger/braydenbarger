@@ -1,4 +1,6 @@
 <h2>Skills</h2>
+<h4>Introduction</h4>
+I'm Brayden Barger a computer science student at Brigham Young University Idaho. Outside of coding I enjoy skiing, climbing, and basketball.
 <h4>Languages</h4>
 <div>
 <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -27,6 +29,7 @@
 </div>
 <h2>Education</h2>
 Personal projects can be found in these repositories
+<br>
 Personal Repository <a href="https://github.com/brayden013" targer="_Blank">Repository</a>
 <br>
 Mountainland Technical College <a href="https://github.com/BraydenB-13" target="_Blank">Repository</a>
