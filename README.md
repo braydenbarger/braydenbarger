@@ -26,6 +26,7 @@
 <img height="20px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />  
 </div>
 <h2>Education</h2>
+Personal projects can be found in these repositories
 Personal Repository <a href="https://github.com/brayden013" targer="_Blank">Repository</a>
 <br>
 Mountainland Technical College <a href="https://github.com/BraydenB-13" target="_Blank">Repository</a>
