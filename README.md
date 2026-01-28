@@ -1,6 +1,6 @@
-<h2>Skills</h2>
-<h4>Introduction</h4>
+<h2>Introduction</h2>
 I'm Brayden Barger a computer science student at Brigham Young University Idaho. Outside of coding I enjoy skiing, climbing, and basketball.
+<h2>Skills</h2>
 <h4>Languages</h4>
 <div>
 <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
