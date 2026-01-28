@@ -28,7 +28,7 @@ I'm Brayden Barger a computer science student at Brigham Young University Idaho.
 <img height="20px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />  
 </div>
 <h2>Education</h2>
-Personal projects can be found in these repositories
+Personal projects can be found in these repositories:
 <br>
 Personal Repository <a href="https://github.com/brayden013" targer="_Blank">Repository</a>
 <br>
